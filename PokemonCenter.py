@@ -1,7 +1,6 @@
 """
 Arion Mercado
 11/29/21
-Section 003
 Pokemon Center Database #2
 """
     
