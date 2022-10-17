@@ -1,0 +1,4 @@
+charmander,3,100.0,Fire
+bulbasaur,5,25.0,Grass
+squirtle,2,50.0,Water
+gyrados,1,1000.0,Water Flying
