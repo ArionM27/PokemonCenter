@@ -1,9 +1,3 @@
-"""
-Arion Mercado
-11/29/21
-Pokemon Center Database #2
-"""
-    
 #Converting the data to a text file
 
 fp = open("pokemon.txt", "r")
